@@ -1,0 +1,17 @@
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.exe
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.deps.json
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.runtimeconfig.json
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\bin\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Form1.resources
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.Properties.Resources.resources
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.GenerateResource.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfoInputs.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.AssemblyInfo.cs
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.csproj.CoreCompileInputs.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\refint\ticketwebsite.dll
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.pdb
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ticketwebsite.genruntimeconfig.cache
+C:\Users\r3kcah011\Desktop\Final project oop\ticketwebsite\ticketwebsite\obj\Debug\net6.0-windows\ref\ticketwebsite.dll
