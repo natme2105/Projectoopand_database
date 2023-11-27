@@ -33,7 +33,6 @@
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
-            button5 = new Button();
             button6 = new Button();
             SuspendLayout();
             // 
@@ -77,15 +76,6 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
-            // button5
-            // 
-            button5.Location = new Point(435, 219);
-            button5.Name = "button5";
-            button5.Size = new Size(75, 23);
-            button5.TabIndex = 4;
-            button5.Text = "button5";
-            button5.UseVisualStyleBackColor = true;
-            // 
             // button6
             // 
             button6.Location = new Point(705, 242);
@@ -103,7 +93,6 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1135, 564);
             Controls.Add(button6);
-            Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -123,7 +112,6 @@
         private Button button2;
         private Button button3;
         private Button button4;
-        private Button button5;
         private Button button6;
     }
 }
